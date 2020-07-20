@@ -74,4 +74,4 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [ch
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
 ## Special Thanks to credit
-https://github.com/bchiang7
+Brittany Chiang
